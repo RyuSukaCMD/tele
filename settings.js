@@ -12,7 +12,7 @@ global.APIs = {
 //buy apikey premium 6281330251835
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': '6T8nj4b9zYHBlyL', // 👉 free apikey from irulz limit 30 !! 
+   'https://api.zeeoneofc.my.id': 'WEYRJsAVQvdqWPs', // 👉 free apikey from irulz limit 30 !! 
 }
 
 //language 
